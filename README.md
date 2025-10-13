@@ -99,7 +99,7 @@ All project details, architecture diagrams, and database ERD will be included in
 ## 👥 Contributors
 | Name | Role |
 |------|------|
-| Your Name (Tarek) | Backend Developer |
+| TAREK SAYED MOKHTAR | Backend Developer |
 
 ---
 
